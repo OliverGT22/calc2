@@ -2,6 +2,6 @@ CACHE MANIFEST
 # 01/10/2022 v1.2
 CACHE:
 /index.html
-/css/main.css
-/images/favicon-32x32.png
-/js/main.js
+css/main.css
+images/favicon-32x32.png
+js/main.js
